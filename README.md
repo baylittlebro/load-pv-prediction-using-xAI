@@ -1,7 +1,7 @@
 # Load_PV_Prediction_Using_XAi
 
 The project aims to predict electricity generation and load per hour in Toronto using **LSTM** circular neural networks.
-**XAI (Expensible AI)**, a machine learning library designed with AI explanation potential as the core, is also used. XAI was used for analysis and evaluation of data and models, and SHAP (Shapley Additive Description) was used among XAI models.
+**XAI (Explanable AI)**, a machine learning library designed with AI explanation potential as the core, is also used. XAI was used for analysis and evaluation of data and models, and SHAP (Shapley Additive Description) was used among XAI models.
 
 # Dataset
 
